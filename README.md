@@ -1,6 +1,6 @@
 # dws_lf
 
-# Skin Disease Classification Using Multimodal Feature Fusion
+# A Depth-wise Separable Learning with Late Fusion for Skin Disease Classification
 
 This repository contains the source code and instructions for reproducing the experiments in the manuscript titled:
 
